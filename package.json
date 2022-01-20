@@ -1,0 +1,11 @@
+{
+  "name": "weather_widget",
+  "version": "1.0.0",
+  "description": "5 Day weather forcast",
+  "main": "script.js",
+  "scripts": {
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "Jamie Hunter",
+  "license": "ISC"
+}
